@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">Who I am ?</h1>
+<p align="center">I am a Young French Student 🧢</p>
+<p align="center">I am a Front End Developer 🎭</p>
+<p align="center">I am a Web Developement Learner 📚</p>
+<p align="center">I am a passioned by Informatic 💻</p>
 
-<!--
-**Lxway/lxway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center"> Who i work for ? </h1>
+<p align="center">I work for multiple large servers (Community Manager) 📌</p>
+<p align="center">I own a lot of little servers like @7nCe @B9 and @Minaria 🎓 </p>
 
-Here are some ideas to get you started:
+<h1 align="center"> My goals ? </h1>
+<p align="center"> Become an Informatic Engenieer 📝  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center"> Socials / Contacts </h1>
+<p align="center"> Twitter : kwiksbinks </p>
+<p align="center"> Discord : kwiks.#1989 </p>
+
+<h1 align="center"> Thanks ! </h1>
