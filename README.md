@@ -4,7 +4,7 @@
 <p align="center">I am a Web Developement Learner 📚</p>
 <p align="center">I am a passioned by Informatic 💻</p>
 
-<h1 align="center"> Who i work for ? </h1>
+<h1 align="center">Who i work for ?</h1>
 <p align="center">I work for multiple large servers (Community Manager) 📌</p>
 <p align="center">I own a lot of little servers like @7nCe @B9 and @Minaria 🎓 </p>
 
